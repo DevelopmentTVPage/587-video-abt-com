@@ -1,0 +1,16 @@
+{
+    "title": "new test abt project",
+    "baseURL": "https:\/\/video.abt.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758854",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "abt.com"
+    }
+}
