@@ -1,0 +1,19 @@
+{
+    "title": "Seura Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1504040456",
+    "date_modified": "1504040456",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "114717403",
+    "loginId": "1758854",
+    "entityType": "3",
+    "titleTextEncoded": "Seura-Channel",
+    "category": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}

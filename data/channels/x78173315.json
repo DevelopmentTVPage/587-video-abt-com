@@ -1,0 +1,25 @@
+{
+    "title": "zDEMO - Content for Category Widget Development",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1478122317",
+    "date_modified": "1478122317",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "78173315",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "zDEMO-Content-for-Category-Widget-Development",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "$channels = array(70108831,78028433);\n\nforeach ($channels as $channel) {\n\n    RE::add(\n        RE::videos(\n            RE::condition()\n                ->compare('featured_category', 'featured_yes')\n                ->order('dateCreated')\n        )\n        ->channel($channel)\n        ->of(RE::REL_MANUAL_PRODUCT_VIDEOS)\n    );\n    \n    if(RE::getResultCount() >= 30)\n        break;\n    \n};"
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

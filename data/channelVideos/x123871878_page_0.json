@@ -1,0 +1,53 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "123870873",
+            "title": "Stearns & Foster \u2013 Craftsmen",
+            "date_created": "1429922115",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Delivering restorative sleep is our mission. Crafted with the world\u2019s finest materials. Made by the world\u2019s finest craftsmen.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CdiuftUf3mI\/sddefault.jpg",
+                "uploadDate": 1429922115,
+                "videoId": "CdiuftUf3mI",
+                "title": "Stearns & Foster \u2013 Craftsmen :15",
+                "description": "Delivering restorative sleep is our mission. Crafted with the world\u2019s finest materials. Made by the world\u2019s finest craftsmen.",
+                "author": "Stearns & Foster\u00ae",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "views": "474",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "123871878",
+            "url": "\/stearns-foster-channel\/stearns-foster-craftsmen-15\/123871878-123870873"
+        },
+        {
+            "id": "123870870",
+            "title": "Stearns & Foster\u00ae Stitching",
+            "date_created": "1461760614",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "How does Stearns & Foster craft the world\u2019s finest bed? Luxurious materials, master craftsmanship and attention to every detail for quality you can feel.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4Zr6PHTlmpg\/maxresdefault.jpg",
+                "uploadDate": 1461760614,
+                "videoId": "4Zr6PHTlmpg",
+                "title": "Stearns & Foster\u00ae Stitching :30",
+                "description": "How does Stearns & Foster craft the world\u2019s finest bed? Luxurious materials, master craftsmanship and attention to every detail for quality you can feel.\n\nSee more at stearnsandfoster.com\n\nFacebook:\u00a0https:\/\/www.Facebook.com\/StearnsandFoster\nInstagram:\u00a0https:\/\/www.Instagram.com\/StearnsandFoster \nPinterest:\u00a0https:\/\/www.Pinterest.com\/StearnsFoster",
+                "author": "Stearns & Foster\u00ae",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "31482",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "123871878",
+            "url": "\/stearns-foster-channel\/stearns-foster-stitching-30\/123871878-123870870"
+        }
+    ]
+}

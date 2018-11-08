@@ -1,0 +1,19 @@
+{
+    "title": "Rabbit Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1502379383",
+    "date_modified": "1502379383",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "109231825",
+    "loginId": "1758854",
+    "entityType": "3",
+    "titleTextEncoded": "Rabbit-Channel",
+    "category": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
