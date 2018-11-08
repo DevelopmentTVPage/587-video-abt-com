@@ -1,0 +1,133 @@
+{
+    "title": "Samsung 30\" Stainless Steel Gas Cooktop - NA30K7750TS",
+    "description": "Features:\n\nGeneral\n\n- Bluetooth Connected to Hood\n- Blue LED Lights\n- WiFi Connectivity\n\nPowerful Cooktop\n- Right Front: 13K BTU\n- Left Front: 9.5K BTU\n- Right Rear: 5K BTU\n- Left Rear: 9.5K BTU\n- Center: Dual, 22K BTU (Oval)\n\n- Cast Iron 3-Piece Grates\n- Sealed Burners\n- Burner On\/Off Monitoring\n\nConvenience\n\n- Wok Grate\n- Dishwasher Safe Grates\n- LP Conversion Kit\n\nSpecifications:\n\n- Total Power (BTU): 59K\n- Power Source: 120 V\/60 Hz\n\nGas Cooktop (BTU)\n- Right Front: 13K\n- Left Front: 9.5K\n- Right Rear: 5K Simmer\n- Left Rear: 9.5K\n- Center: 22K (Dual)\n\nApproximate Dimensions:\n\n- Unit (W x H x D): 30\" x 3-1\/8\" x 21\"\n- Cut-Out (W x H x D): 28-1\/2\" x 3-1\/8\" x 19-5\/8\"\n\nApproximate Weight:\n\n- Unit: 27.6 lbs\n- Shipping: 74.5 lbs\n\nWarranty Information:\n\n- Manufacturer Warranty (authorized online retailer): One Year Parts and Labor",
+    "referenceId": "a6ac1e7d7f74e838e535fb67cd1f50c6",
+    "date_created": "1500580298",
+    "date_modified": "1500591062",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "product_tour",
+    "featured_category": "featured_yes",
+    "brand1": "samsung",
+    "main_category": "appliances",
+    "sub_category": "appliances_cooktops",
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "16",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "106044091",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Samsung-30in-Cooktop-NA30K7750TS-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/thumb-a6ac1e7d7f74e838e535fb67cd1f50c6-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044091\/b2bb8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-03-05"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5741.9595,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

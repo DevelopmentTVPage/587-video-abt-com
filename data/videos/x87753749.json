@@ -1,0 +1,134 @@
+{
+    "title": "Sonance Landscape Series Outdoor Speakers",
+    "description": "Sonance Landscape Series Outdoor Speakers\n\nSonance Landscape Series is a totally scalable outdoor speaker system that delivers perfectly even volume coverage and unbelievable sound quality throughout any size space. Described by one critic as outdoor sound to \u201cknock their socks off\u201d, SLS provides jaw-dropping sonic performance from small satellite speakers and below-ground subwoofers that are hidden completely   out   of   sight   amongst   plants and under foliage.",
+    "referenceId": "a39f17bf460fc67ee0d9b181b08bb595",
+    "date_created": "1492798930",
+    "date_modified": "1492799516",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "95",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "overview",
+    "featured_category": null,
+    "brand1": "sonance",
+    "main_category": "audio",
+    "sub_category": "audio_outdoor_speakers",
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "28",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "87753749",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "240016647-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "95",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/thumb-a39f17bf460fc67ee0d9b181b08bb595-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-06-23"
+        }
+    },
+    "tvp_profiles": [
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5097.37,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

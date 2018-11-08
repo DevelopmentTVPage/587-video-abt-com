@@ -1,0 +1,134 @@
+{
+    "title": "Friedrich WallMaster Wall Air Conditioner",
+    "description": "A perfect fit for existing 27\" sleeves, including Fedders A and B (requires a baffle kit). All WallMasters are commercial-grade and feature-packed. Solid side sleeve is ideal for thicker wall installations. 8000 - 14500 Btu\/h. Cooling only, heat pumps and cooling + electric heat models.",
+    "referenceId": "7778d2e9363b3a08b105ca180bffdd74",
+    "date_created": "1507244010",
+    "date_modified": "1507244229",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "126",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "first_look",
+    "featured_category": null,
+    "brand1": "friedrich",
+    "main_category": "appliances",
+    "sub_category": "appliances_heating_cooling_air_quality",
+    "brand_filter": "e_f",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "121443363",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "WallmasterProductVideo-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "126",
+            "width": 1024,
+            "height": 576
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/thumb-7778d2e9363b3a08b105ca180bffdd74-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1024,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1024,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443363\/cc170\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-05-31"
+        }
+    },
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 760.3518,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

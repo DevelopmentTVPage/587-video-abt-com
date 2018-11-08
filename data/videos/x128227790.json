@@ -1,0 +1,134 @@
+{
+    "title": "Sony WF-1000X Wireless In-Ear Noise-Canceling Headphones",
+    "description": "Wire free, noise free, stress free\n\nNo wires, no problem - just industry-leading noise cancellation1 tailored to your environment in a minimalist design with smart features.\n\nFeatures:\n\nFree from wires\u00a0\nJust your music, with no wires to get in the way.\n\nCut out wires and noise\nListen free from wires and unwanted background noise with Industry-leading Noise Cancellation.\n\nCompact, minimalist design\u00a0\nWear discreetly and comfortably in your ears all day long.\n\nSmall but perfectly clear\u00a0\nA tiny 6mm driver sits inside the headphones to deliver clear sound.\n\nBuilt to stay put and keep playing\u00a0\nAn ergonomic ear hook keeps your headphones in place, and the internal antenna and fitting supporter keep the signal strong for constant streaming.\n\nSmart Listening by Adaptive Sound Control automatically adjusts to whatever you do\u00a0\nSmart Listening by Adaptive Sound Control automatically detects your activity such as traveling, walking, and waiting, then adjusts ambient sound settings to you. You can customize them to your preferences with the Sony I Headphones Connect app.\n\nTailor sound to you\u00a0\nSENSE ENGINE\u2122 gives you the power to tune in and out of your music at a touch.\n\nSony I Headphones Connect for Android\u00a0\nDownload the Android APP to use Smart Listening by Adaptive Sound Control, control your ambient sound settings, and adjust the sound levels with the Equalizer.\n\nSony I Headphones Connect for iOS\u00a0\nDownload the iOS APP to use Smart Listening by Adaptive Sound Control, control your ambient sound settings, and adjust the sound levels with the Equalizer.\n\nAmbient Sound (Normal)\u00a0\nSwitch on normal mode to hear all essential background sounds.\n\nAmbient Sound (Voice)\nSwitch on voice mode to make sure you never miss announcements.\n\nEqualizer\u00a0\nFind your perfect sound tone for every song from the presets, easily customizable to your preference with Sony | Headphones Connect APP. Available from October 2017\n\nEasy hands-free calling\u00a0\nConversation flows freely with easy, hands-free calling. Leave your phone where it is: just speak with a tap.\n\nCharge and carrying case\u00a0\nNo need to worry about battery life, just place your headphones in the carrying case to charge on the go.\n\nAuto on \/ Auto off\u00a0\nAutomatically turns on and off to save battery when not in use.\n\n9 hrs battery life\u00a0\nEnjoy up to 9 hours of battery life, with 3 hours of music playback and up to 9 hours play time with chargeable carrying case.",
+    "referenceId": "ab2480a065d4585091ece121e8c1a475",
+    "date_created": "1509994099",
+    "date_modified": "1509997893",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "32",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "commercial",
+    "featured_category": null,
+    "brand1": "sony",
+    "main_category": "audio",
+    "sub_category": "audio_headphones",
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "128227790",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "earbud-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "32",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/thumb-ab2480a065d4585091ece121e8c1a475-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/128227790\/e45e9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-07"
+        }
+    },
+    "tvp_profiles": [
+        "11",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 7305.7715,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,133 @@
+{
+    "title": "LG InstaView Door-In-Door French Door Refrigerator - Overview",
+    "description": "Raid the Fridge Without Losing Your Cool\n\nLG\u2019s InstaView\u2122 Door-in-Door\u00ae refrigerators bring distinctive styling and innovation to your kitchen with a tinted glass panel that allows you to see inside the easy-access door without letting the cold air out. Simply knock twice on the glass to illuminate the contents within.\n\nShop for LG InstaView Door-In-Door Refrigerators at Abt.",
+    "referenceId": "f39c882669edb65e9b221dfca762e39c",
+    "date_created": "1487182579",
+    "date_modified": "1487191336",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "311",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": null,
+    "brand1": null,
+    "main_category": "appliances",
+    "sub_category": "appliances_refrigerators",
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "208",
+    "CVV_VI": "2",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "85404608",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "InstaView-Door-In-Door-full-final-mov",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "311",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "311",
+        "prettyDuration": "00:05:11",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/thumb-f39c882669edb65e9b221dfca762e39c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/85404608\/cf847\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-02-09"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2325.5356227022,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

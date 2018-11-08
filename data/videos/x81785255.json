@@ -1,0 +1,120 @@
+{
+    "title": "Frigidaire Gallery Induction Cooking",
+    "description": "Across the country people are quickly making the switch to Frigidaire Induction Cooking. Induction heats up quicker than standard electric cooktops & ranges, while offering advanced safety features that help prevent accidents. Watch this video to find out about the features that are convincing people to switch to induction. \n\nStop by Abt, or browse our online collection of Frigidiare Induction Cooktops today. http:\/\/www.abt.com\/brand-category\/Frigidaire\/Induction-Cooktops\/24\/2402.html",
+    "referenceId": "52c6daec1647827d84cb220cd7f0fcbd",
+    "date_created": "1480971538",
+    "date_modified": "1480973806",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "54",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": null,
+    "brand1": null,
+    "main_category": "appliances",
+    "sub_category": "appliances_ranges",
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "238",
+    "CVV_VI": "5",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "user_id": "0",
+    "id": "81785255",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "FrigGal-ct-Aurasma-Ind-Cooking-TRT00m53s-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/thumb-52c6daec1647827d84cb220cd7f0fcbd-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/81785255\/8a6af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-02-24"
+        }
+    },
+    "tvp_profiles": [
+        "30",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5233.8403,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

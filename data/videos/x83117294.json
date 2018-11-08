@@ -1,0 +1,127 @@
+{
+    "title": "Samsung 3FG70 Curved Gaming Monitors",
+    "description": "Samsung 3FG70 Curved Gaming Monitors Feature:\n\nCurved monitor with super-fast 1ms response time\n- Applying Samsung's advanced motion blur reduction technology to its superior VA panel, Samsung has succeeded in creating a Curved monitor with a super-fast response time of 1ms (MPRT) that lets you enjoy unprecedented gaming performance without motion blur across the entire screen.\n\nQuantum dot technology for a wider range of more realistic colors\n- Quantum dot technology supports sRGB 125% for a wider range of more accurate colors \u2014 especially dark reds and greens \u2014 that stay crisp and clear even in bright light. In any application from gaming to web browsing or document work, your content comes alive on the screen.\n\t\n144hz screen refresh rate for flawlessly smooth gaming \n- Experience flawlessly smooth gameplay with a screen refresh rate of up to 144Hz. You can also select 60Hz, 100Hz or 120Hz to optimize the refresh rate to your game and hardware specs\n\t\nPreset Display Game Modes \n- Factory-calibrated multiple game modes instantly optimize black gamma levels, contrast ratios and sharpness for FPS, RTS, RPG, and AOS genres, so you get to see every scene at its best whatever game you play.\n\t\nGame-style OSD menu and Sound interactive LED Lighting \n- Bring some extra style to your gaming with the OSD dashboard menu designed to blend seamlessly into game interfaces and the audio-synched. Arena Lighting also enhances gameplay with a dynamically pulsing lightshow that emulates from below the monitor frame onto the stand.\n\nDual-hinged arm for precision screen positioning \n- The strong dual-hinge arm designed for the most demanding gaming gives you precise control over how you position the display panel \u2014 for the winning edge in any onscreen contest\n\n3000:1 Static Contrast Ratio \n- Samsung's advanced VA panel technology minimizes light leakage across the entire screen and corners and delivers a 3000:1 contrast ratio for deep blacks and brilliant whites in even the darkest and brightest scenes.\n\t\nSmooth Gameplay with AMD FreeSync\n- By dynamically synching the screen refresh rate with the image frame rate, AMD FreeSync minimizes stutter.",
+    "referenceId": "c79cbaf8ea8b3a1f8460999c9f4aa78d",
+    "date_created": "1482357187",
+    "date_modified": "1483987461",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": null,
+    "brand1": null,
+    "main_category": "tvs_electronics",
+    "sub_category": "tvs_electronics_computer_monitors",
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "49",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "83117294",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "CFG70-Feature-Film-49s-1207-final-rere-MASTER-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "49",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/thumb-c79cbaf8ea8b3a1f8460999c9f4aa78d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/83117294\/aa440\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-10-26"
+        }
+    },
+    "tvp_profiles": [
+        "26",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3617.9587,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

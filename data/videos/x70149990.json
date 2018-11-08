@@ -1,0 +1,133 @@
+{
+    "title": "Samsung SmartThings Hub",
+    "description": "The heart of your smart home, the Samsung SmartThings Hub communicates information from your smartphone to all of your different connected products\u2013regardless of their wireless protocol\u2013so that you can easily monitor and control them from the free SmartThings app. Whether you have two connected devices or 200, all you need is one Hub to create a smart home.\n\nKey Features:\n- The Hub lets you easily control and monitor your home from anywhere\n- Stay connected to loved ones\n- Automate your home's lighting and save money on energy costs\n\nFeatures:\n\nConnectivity Starts Here\nAllows you to connect all of your different smart locks, lights, outlets, thermostats, and more so that you can receive important notifications about what's happening in and around your home and remotely control your home's security, energy usage, lighting, and more.\n\nSimple Set-Up\nIncludes everything you need to get started: Ethernet cable, a wall power adapter, a micro-USB cord, and a manual. No wiring or installation needed: Anyone with broadband Internet connection can easily set up their Hub.\n\nControlled through your smart phone\nThe easy-to-use SmartThings app turns your smartphone into a remote to control all of the smart devices in your home. Available for download for Android, iOS and Windows. Minimum smartphone requirements: iOS 7.0, Android 4.0, Windows Phone 8.1 or greater.\n\nPlays well with others\nOnce you have the Samsung SmartThings Hub and free SmartThings app, you can add as many devices as you want to customize your smart home. Compatible with ZigBee, Z-Wave, and IP-connected devices. Works with the following brands: Samsung, Honeywell, Schlage, Yale, First alert, D-Link, OSRAM LIGHTIFY, Leviton, Bose, Cree, and others.\n\nVideo Capability\nKeep an eye on what matters most while you're away. Receive push notifications to live stream what's going on at home, or record video clips* 30 seconds before, and for two minutes after a specified event takes place. Download recorded video clips to your smartphone, which are stored for up to 30 days.\n\n*Live video streaming is supported free of charge; video clip recording is available as an optional premium feature within the SmartThings app.\n\nAbt is a proud authorized retailer of the Samsung SmartThings Hub. Shop for the Samsung SmartThings Hub, as well as the full line of Samsung SmartThings at Abt today!",
+    "referenceId": "7b289d0eca118224ead3569c9c621afb",
+    "date_created": "1477062269",
+    "date_modified": "1478562281",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": null,
+    "brand1": "samsung",
+    "main_category": "home_fitness",
+    "sub_category": null,
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "32",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "70149990",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "160921-SmartThings-Hub-4K-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/thumb-7b289d0eca118224ead3569c9c621afb-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70149990\/30946\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-08-04"
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 15881.3545,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
