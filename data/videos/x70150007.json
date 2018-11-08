@@ -1,0 +1,133 @@
+{
+    "title": "What Can Samsung SmartThings Do for You?",
+    "description": "Samsung SmartThings are the easiest way to turn your home into a smart home. You can stay connected to your home and family from anywhere, monitor your home more affordably than a traditional home security system, add compatible cameras, locks, and alarms to enhance your monitoring solution, right from the palm of your hand.\n\nAbt is a proud authorized retailer of the Samsung SmartThings. Shop for the full line of Samsung SmartThings at Abt today!",
+    "referenceId": "7196d726c5f2c96c61530d18d8316c22",
+    "date_created": "1477063830",
+    "date_modified": "1478714148",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "613",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": null,
+    "brand1": "samsung",
+    "main_category": "home_fitness",
+    "sub_category": null,
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "70150007",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "160906-ST-US-Retail-Video-Loop-1920x1080-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "613",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "613",
+        "prettyDuration": "00:10:13",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/thumb-7196d726c5f2c96c61530d18d8316c22-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70150007\/03d03\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-08-04"
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6947.7827,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,131 @@
+{
+    "title": "Whirlpool Microwave Hood High Performance Venting",
+    "description": "Whirlpool Microwave Hood High Performance Venting Feature Video",
+    "referenceId": "729f011b9d56f088162c104f8f493487",
+    "date_created": "1520542750",
+    "date_modified": "1520543349",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "34",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "commercial",
+    "featured_category": null,
+    "brand1": "whirlpool",
+    "main_category": "appliances",
+    "sub_category": "appliances_microwaves",
+    "brand_filter": "w_x",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "40",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "153849723",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "WC180030A-2018-Whirlpool-Brand-Low-Profile-MHC-High-Performance-Venting-Feature-Video-720-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "34",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/thumb-729f011b9d56f088162c104f8f493487-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/153849723\/922ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-05-22"
+        }
+    },
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

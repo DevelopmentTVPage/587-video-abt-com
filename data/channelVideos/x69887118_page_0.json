@@ -1,0 +1,156 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "69887593",
+            "title": "Sleep6 - The Sleep6 Mattress Overview",
+            "date_created": "1476392212",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Abt is a proud authorized retailer of Sleep6 Mattresses. Shop on www.Abt.com or in our store to see our full selection of Sleep 6 Mattresses and pillows.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "30",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/thumb-3b5bfa2cef94783ba3bd595ac62e24e3-00001.jpg",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:00:30",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887593\/6b12c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "69887118",
+            "url": "\/sleep6-channel\/sleep6-the-sleep6-mattress-overview-mp4\/69887118-69887593"
+        },
+        {
+            "id": "69887594",
+            "title": "Sleep6 - The Sleep6 Mattress",
+            "date_created": "1476392224",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Abt is a proud authorized retailer of Sleep6 Mattresses. Shop on www.Abt.com or in our store to see our full selection of Sleep 6 Mattresses and pillows.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "55",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/thumb-9531e0f97fe154af352da48e9de25e22-00001.jpg",
+                "uploadAsset": false,
+                "quality": "",
+                "prettyDuration": "00:00:55",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/media.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69887594\/7bd16\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "69887118",
+            "url": "\/sleep6-channel\/sleep6-the-sleep6-mattress-mp4\/69887118-69887594"
+        },
+        {
+            "id": "69863208",
+            "title": "Unboxing: Sleep6 Showroom Quality Mattress - 5SLEEP6",
+            "date_created": "1462298828",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Abt has special shipping on the Sleep6 Mattresses & Pillows. Buy from an authorized internet retailer and get free technical support for life.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/La2Y43oRohk\/hqdefault.jpg",
+                "uploadDate": 1462298828,
+                "videoId": "La2Y43oRohk",
+                "title": "Unboxing: Sleep6 Showroom Quality Mattress - 5SLEEP6",
+                "description": "Check out all of the Sleep6 mattresses we carry at Abt!\nhttp:\/\/www.abt.com\/brand\/Sleep6?utm_source=youtube&utm_medium=video&utm_campaign=Sleep6_20160503",
+                "author": "Abt",
+                "mediaDuration": 167,
+                "prettyDuration": "00:02:47",
+                "views": "182",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "69887118",
+            "url": "\/sleep6-channel\/unboxing-sleep6-showroom-quality-mattress-5sleep6\/69887118-69863208"
+        }
+    ]
+}

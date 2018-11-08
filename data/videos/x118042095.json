@@ -1,0 +1,135 @@
+{
+    "title": "ife Fitness InMovement Elevate DT2 Standing Desk - Benefits",
+    "description": "At a full 41 inches across and 26 inches deep, the InMovement\u00ae Elevate DeskTop\u2122 DT2 offers a generous surface area that allows for a fully functional workstation capable of accommodating an extra monitor. The DT2 comes assembled and ready for use. Simply set the DT2 on top of nearly any existing workstation to instantly experience the benefits of standing while working. For our tallest customers, the DT2 accommodates users up to 6'6\", and elevates two inches higher than competitors. \n\nEngineered with ergonomics in mind, the keyboard tray is lower than a traditional standing surface, improving posture and comfort. The keyboard tray is retractable, sliding out of the way when not in use. \n\nThe DT2 is available in three high-end finishes to complement any workspace. Choose from a modern white, an elegant light grain, or a rich dark grain finish.",
+    "referenceId": "86c7c852a4f6cbecaeaa3da6c30761d9",
+    "date_created": "1505846752",
+    "date_modified": "1505847189",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "39",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "feature",
+    "featured_category": null,
+    "brand1": "life_fitness",
+    "main_category": "furniture_mattresses",
+    "sub_category": "furniture_mattresses_computer_desks",
+    "brand_filter": "k_l",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "118042095",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "VIDEO-Benefits-Movement-InMovement-Video-mov",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "39",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/thumb-86c7c852a4f6cbecaeaa3da6c30761d9-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/118042095\/81294\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-25"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2932.8342,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Tips and Ideas",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1527011895",
+    "date_modified": "1527011992",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "163987964",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "Tips-and-Ideas",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {
+                        "video_type": "tips___tricks"
+                    },
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

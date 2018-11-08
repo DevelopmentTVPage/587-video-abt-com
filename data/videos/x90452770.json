@@ -1,0 +1,136 @@
+{
+    "title": "Samsung Family Hub 2.0 Refrigerator",
+    "description": "Family Hub\u2122 2.0 \n\n- Family Hub\u2122 helps you manage your home and your life, with Food Management, Family Connection and Entertainment capabilities \u2013 all controlled from the 21.5\" Wi-Fi enabled touchscreen. Create shopping lists and expiration notices, share multiple calendars, photos and memos, and stream music, videos and your Samsung TV directly on your Family Hub\u2122\n\nFlexZone\u2122 \n\n- Versatile drawer with 4 temperature control settings and a Smart Divider\n\nAuto Water Fill with Infuser \n\n- Easily fill your favorite pitcher quickly with the auto fill option. Also add your favorite flavor to your water, with the flavor infuser\n\nTwin Cooling Plus\u2122 \n\n- The Twin Cooling Plus\u2122 feature maintains both high levels of refrigerator humidity to keep perishable fruits and vegetables fresher longer, and dry freezer conditions for less freezer burn meaning better tasting frozen foods\n\nPolygon and Recessed Handles \n\n- Polygon and recessed handles create a beautiful, streamline design with the ability to customize to your needs\n\nCounter Depth \n\n- Get more workspace while enhancing your kitchen's look with our counter-depth refrigerator design. Its sleek, built-in style blends in with the cabinetry, adding function and style to your kitchen\n\n22 cu. ft. Capacity \n- This large 22 cu. ft. capacity refrigerator is fit to store all of your favorite foods\n\nIce Master \n\n- Our refrigerator's Ice Master produces up to 8.8 lbs. of ice per day. This space-saving design leaves more room in the refrigerator\n\nHigh-Efficiency LED Lighting \n\n- LED lighting gently brightens virtually every corner of your refrigerator so you're able to quickly spot what you want. Plus, it emits less heat and is more energy-efficient than conventional lighting. The sleek design saves more space than traditional incandescent light bulbs",
+    "referenceId": "f4cacb3f25f889bdfdd9ce12f29d7b3d",
+    "date_created": "1494366478",
+    "date_modified": "1494368096",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "95",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "overview",
+    "featured_category": null,
+    "brand1": "samsung",
+    "main_category": "appliances",
+    "sub_category": "appliances_refrigerators",
+    "brand_filter": "s_t",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "454",
+    "CVV_VI": "6",
+    "engagement_score": "1",
+    "conversion_score": "1",
+    "user_id": "0",
+    "id": "90452770",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "FH-2-0-PVI-full-version-mp4-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "95",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/thumb-f4cacb3f25f889bdfdd9ce12f29d7b3d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/90452770\/2aa1c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-06-29"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-12-02"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3465.0493672451,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

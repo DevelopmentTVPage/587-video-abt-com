@@ -1,0 +1,134 @@
+{
+    "title": "Bowers & Wilkins - Inside The PV1D",
+    "description": "Bowers & Wilkins PV1D Matte White Subwoofer, Model PV1DW (Sold As Each)\n\nThe best home theater systems are designed to work like a team, with the receiver and speakers being the brains and the subwoofer bringing the brawn. Bowers & Wilkins steps the game up, with the B&W PV1D Subwoofer, which supplies both power and intelligence, and the performance that B&W speakers consistently deliver.\n\nAt first glance, you'll be struck by the unique, spherical shape of this B&W subwoofer, which is not simply a stylistic choice. Inspired by the vessels that explore the depths of the ocean, the shape of the PV1D subwoofer helps evenly disperse internal pressure waves, which often cause unwanted resonance in flat-sided subwoofers. The benefits of this design are extended with B&W's innovative Opposed Drive Unit system, which places each of the subwoofer drivers facing outwards, directly opposite each other. This symmetrical mounting method perfectly balances the weight distribution of the drivers, as well as the vibrations they create. As a result, the B&W PV1D subwoofer achieves a remarkable level of stability. You'll hear\u2014and feel\u2014only rumbles, and not rattles.\n\nOf course, when it comes down to it, what really matters is the sonic performance and power a subwoofer produces, and the B&W PV1D is no lightweight. Together, the twin 8-inch, long-throw drivers pump out 400 watts of wall-rattling bass. A frequency response of 7.5Hz -450Hz produces the deep notes that you give your music and movies that extra dimension. And for the true perfectionists, the PV1D subwoofer features an integrated OLED control panel, which lets you control a full range of presets and equalizer options, allowing you adjustment of the subwoofer to suit your varying tastes.",
+    "referenceId": "ac3f539a8cedd43b3eb07bac83cfcb88",
+    "date_created": "1491860864",
+    "date_modified": "1491861324",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "overview",
+    "featured_category": null,
+    "brand1": "bowers_wilkins",
+    "main_category": "audio",
+    "sub_category": "audio_subwoofer_speakers",
+    "brand_filter": "__b",
+    "sort_order": "sort_order_1",
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "87608612",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Bowers-Wilkins-Inside-The-PV1D-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "55",
+            "width": 940,
+            "height": 528
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/thumb-ac3f539a8cedd43b3eb07bac83cfcb88-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 940,
+                "height": 528
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 940,
+                "height": 528
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/87608612\/2b089\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-06"
+        }
+    },
+    "tvp_profiles": [
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6820.713,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

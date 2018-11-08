@@ -1,0 +1,48 @@
+{
+    "title": "TV & Electronics",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1525117548",
+    "date_modified": "1528735398",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "162779347",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "TV-Electronics",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "date_created",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {
+                        "main_category": "tvs_electronics"
+                    },
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

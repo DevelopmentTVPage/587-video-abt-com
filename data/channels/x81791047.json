@@ -1,0 +1,25 @@
+{
+    "title": "Videos Under SKU",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1481092138",
+    "date_modified": "1481099212",
+    "tags": "",
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "81791047",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "Videos-Under-SKU",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(RE::condition())\n    ->of(RE::REL_MANUAL_PRODUCT_VIDEOS, \n            RE::condition()\n                ->compare('referenceId', 68880))\n); "
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

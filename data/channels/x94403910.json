@@ -1,0 +1,19 @@
+{
+    "title": "Roku Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1495641449",
+    "date_modified": "1522176017",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "94403910",
+    "loginId": "1758854",
+    "entityType": "3",
+    "titleTextEncoded": "Roku-Channel",
+    "category": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}

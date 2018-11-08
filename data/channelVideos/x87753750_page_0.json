@@ -1,0 +1,72 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "87753749",
+            "title": "Sonance Landscape Series Outdoor Speakers",
+            "date_created": "1492798930",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Sonance Landscape Series Outdoor Speakers\n\nSonance Landscape Series is a totally scalable outdoor speaker system that delivers perfectly even volume coverage and unbelievable sound quality throughout any size space. Described by one critic as outdoor sound to \u201cknock their socks off\u201d, SLS provides jaw-dropping sonic performance from small satellite speakers and below-ground subwoofers that are hidden completely   out   of   sight   amongst   plants and under foliage.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "95",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "95",
+                "prettyDuration": "00:01:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/thumb-a39f17bf460fc67ee0d9b181b08bb595-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/87753749\/15819\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "87753750",
+            "url": "\/sonance-channel\/240016647-mp4\/87753750-87753749"
+        }
+    ]
+}

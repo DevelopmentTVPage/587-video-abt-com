@@ -1,0 +1,136 @@
+{
+    "title": "Avanti 20\" Stainless Steel Gas Range - GR2013CSS",
+    "description": "Avanti 20\" Stainless Steel Gas Range - GR2013CSS\n\nFeatures:\n\nAutomatic Electronic Ignition\nSee-Thru Glass Oven Door\nOven Cavity Light\nWaist High Broiler\nBake \/ Broil Oven for Maximum Versatility\nFour Sealed Type Burners: (1) Rapid (2) Semi-Rapid (1) Simmer\nBacksplash\nStorage Drawer\nLeveling Legs\nTwo (2) Oven Racks\nLP Conversion Kit Included\nBroiling Pan Included\nADA Compliant\nSpecifications:\n\nPower: 120V \/ 60Hz\nOven Temperature Range: 300\u00b0 - 500\u00b0 F (149\u00b0 - 260\u00b0 C)\nApproximate Dimensions:\n\nHeight: 40.25\"\nWidth: 19.75\"\nDepth: 25\"\nApproximate Weight:\n\nUnit: 93 lbs\nShipping: 105 lbs\nWarranty Information:\n\nManufacturer Warranty (authorized online retailer): One Year Parts and Labor",
+    "referenceId": "2e60f2bc7422c721c5de1f72ce713212",
+    "date_created": "1500581202",
+    "date_modified": "1500589529",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "35",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "product_tour",
+    "featured_category": "featured_yes",
+    "brand1": "avanti",
+    "main_category": "appliances",
+    "sub_category": "appliances_ranges",
+    "brand_filter": "__b",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "64",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "106044106",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Avanti-20-in-Gas-Range-GR2013CSS-mov",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/thumb-2e60f2bc7422c721c5de1f72ce713212-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/106044106\/fbae8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-04-25"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-04-25"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14023.451,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Sub-Zero Channel",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1476989951",
+    "date_modified": "1521064034",
+    "tags": "",
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "70141990",
+    "loginId": "1758854",
+    "entityType": "3",
+    "titleTextEncoded": "Sub-Zero-Wolf-Channel",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}

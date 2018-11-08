@@ -1,0 +1,136 @@
+{
+    "title": "Friedrich ZoneAire Portable Air Conditioner",
+    "description": "ZoneAire provides four distinct functions in one convenient unit: air conditioning, dehumidification, fan and heating (heat pump model only). It\u2019s ideal for supplemental cooling or heating. Keep units on hand for back up conditioning during outages or quick solves for cooling and heating gaps. Also great for garages, dorm rooms, workshops, home offices, attics and basements\u2014anywhere you need quick, convenient cooling and dehumidification. All models include a remote control. Two cooling only models offer air conditioning, dehumidification and air circulation\/fan.",
+    "referenceId": "cc5725c1a84043e316f51b0742fdf39f",
+    "date_created": "1507243175",
+    "date_modified": "1507244115",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "127",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "first_look",
+    "featured_category": null,
+    "brand1": "friedrich",
+    "main_category": "appliances",
+    "sub_category": "appliances_heating_cooling_air_quality",
+    "brand_filter": "e_f",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "54",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "121443360",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Zoneaire-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "127",
+            "width": 1024,
+            "height": 576
+        },
+        "mediaDuration": "127",
+        "prettyDuration": "00:02:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/thumb-cc5725c1a84043e316f51b0742fdf39f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1024,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1024,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/121443360\/16bd7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1435.3185,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

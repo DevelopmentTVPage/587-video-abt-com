@@ -1,0 +1,48 @@
+{
+    "title": "Watches & Fashion",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1525117710",
+    "date_modified": "1528735572",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "162779351",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "Watches-Fashion",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "date_created",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {
+                        "main_category": "watches_fashion"
+                    },
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

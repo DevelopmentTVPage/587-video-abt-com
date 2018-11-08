@@ -1,0 +1,22 @@
+{
+    "title": "Televisions-TV",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1480453434",
+    "date_modified": "1480453434",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "81500518",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "Televisions-TV",
+    "category": null,
+    "settings": {
+        "__SMARTLIST__": "$channels = array(81334157,81334153,81333918,81333915,81333912,81333911,80860507,80860505,80416175,80306964,80264953,80093953,80041909,78399258,78387318,78028433,78028264,77571617,77571441,77571440,70361815,70141990,70129315,70108831,70108696,70108695,70108363,70100363,70100359,69907057,69907054,69887597,69887590,69887118,69884907,69866869,69835026,69620361,69550065,69550063,69550062,69550061);\nforeach ($channels as $channel) {\n\n    RE::add(\n        RE::videos(\n            RE::condition()\n                ->compare('sub_category', 'tvs_electronics_televisions_tv')\n                ->compare('featured_category', 'featured_yes')\n                ->order('dateCreated')\n        )\n        ->channel($channel)\n        \/\/->of(RE::REL_MANUAL_VIDEOS_PRODUCT)\n    );\n    \n    if(RE::getResultCount() >= 30)\n        break;\n    \n};"
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

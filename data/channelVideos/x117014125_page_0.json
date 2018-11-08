@@ -1,0 +1,53 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117014044",
+            "title": "Nikon KeyMission 360: Endless experiences",
+            "date_created": "1493300244",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Look up, down, and all around with the KeyMission 360. Now there is truly no end to the experience.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/95Vu_ed3wwI\/maxresdefault.jpg",
+                "uploadDate": 1493300244,
+                "videoId": "95Vu_ed3wwI",
+                "title": "Nikon KeyMission 360: Endless experiences",
+                "description": "Look up, down, and all around with the KeyMission 360. Now there is truly no end to the experience. Learn about Nikon action cameras at http:\/\/bit.ly\/1PRufCB",
+                "author": "Nikon USA",
+                "mediaDuration": 120,
+                "prettyDuration": "00:02:00",
+                "views": "3240",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117014125",
+            "url": "\/nikon-channel\/nikon-keymission-360-endless-experiences\/117014125-117014044"
+        },
+        {
+            "id": "117014068",
+            "title": "Nikon KeyMission 360: First Look",
+            "date_created": "1452623686",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Introducing the Nikon KeyMission 360 \u00ad\u2013 an action camera with 360\u00b0 4K ultra-high definition video recording capabilities.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DyRJvTCRUfE\/maxresdefault.jpg",
+                "uploadDate": 1452623686,
+                "videoId": "DyRJvTCRUfE",
+                "title": "Nikon KeyMission 360: First Look",
+                "description": "Introducing the Nikon KeyMission 360 \u00ad\u2013 an action camera with 360\u00b0 4K ultra-high definition video recording capabilities. Be the first to learn more about the new KeyMission 360, coming spring 2016: http:\/\/bit.ly\/KeyMission360",
+                "author": "Nikon USA",
+                "mediaDuration": 105,
+                "prettyDuration": "00:01:45",
+                "views": "11893",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117014125",
+            "url": "\/nikon-channel\/nikon-keymission-360-first-look\/117014125-117014068"
+        }
+    ]
+}

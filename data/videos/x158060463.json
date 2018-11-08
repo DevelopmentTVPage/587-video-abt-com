@@ -1,0 +1,131 @@
+{
+    "title": "Whirlpool Affresh Tablets Dishwasher Cleaner",
+    "description": "Whirlpool Affresh 6 Tablets Dishwasher Cleaner - W10549851\nThe NEW Affresh\u2122 dishwasher and disposal cleaner is the powerful, ground-breaking solution for unwanted dishwasher and disposal odor. These innovative tablets help prevent odor in the dishwasher AND disposal. Developed with the consumer in mind, these cleaner tablets help remove even the most stubborn odors from dishwashers and disposals. Use once a month or as needed for a cleaner fresher dishwasher and disposer. Affresh cleaner keeps the dishwasher and disposal fresh for up to a month by penetrating, dissolving and removing odor. It's a fast and simple way to keep the inside of these appliances clean and smelling fresh.\n\nFeatures:\n\nHelp reduce mineral build up\nJust one tablet, once a month is all it takes\nFor Dishwasher use\nStep 1: With all dishware removed from dishwasher, place one tablet in the main detergent tray. Close the tray\nStep 2: Place 2nd tablet in the prewash tray or in the bottom of the dishwasher. Close the dishwasher and run on most aggressive cycle\nFor Disposal use\nPlace a tablet in the disposal\nTurn on hot water to a slow flow\nRun the disposal and water for 15 seconds\nTurn off disposal and water\nWait 30 minutes then flush the disposal with hot water",
+    "referenceId": "0a60114a9c4f9375c9359608ebca82f4",
+    "date_created": "1522863358",
+    "date_modified": "1522864255",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "15",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "commercial",
+    "featured_category": null,
+    "brand1": "whirlpool",
+    "main_category": "home_fitness",
+    "sub_category": "home_fitness_kitchen_accessories",
+    "brand_filter": "w_x",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "158060463",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Copy-of-Affresh-Dishwasher-TV15-042017-FINAL-2",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/thumb-0a60114a9c4f9375c9359608ebca82f4-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/158060463\/e21ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-05-13"
+        }
+    },
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

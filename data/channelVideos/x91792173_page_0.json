@@ -1,0 +1,168 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "106044330",
+            "title": "Tempur-Pedic Mattresses at Abt",
+            "date_created": "1500591153",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "Shop our entire line of Tempur-Pedic Mattresses at Abt today.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/thumb-936a45838e116bff43290d1ec32de2de-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758854\/106044330\/46f90\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "91792173",
+            "url": "\/tempur-pedic-channel\/media-1-mp4\/91792173-106044330"
+        },
+        {
+            "id": "91792113",
+            "title": "Tempur-Pedic\u00ae Presents: Candy",
+            "date_created": "1488381769",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material precisely adapts to your unique body shape. It means personalized comfort and support. Think about it this way: Tempur material is a lot like settling your hand into a container of sprinkles...densely packed in together, responsive and adaptive. Ordinary memory foam and innerspring mattresses are more like gumballs\u2026not nearly as responsive or adaptive. \n\nSorry, gumballs.  There\u2019s simply nothing like a Tempur-Pedic \u2014 truly personalized comfort for life-changing sleep.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/d-S_3lgpGV0\/hqdefault.jpg",
+                "uploadDate": 1488381769,
+                "videoId": "d-S_3lgpGV0",
+                "title": "Tempur-Pedic\u00ae Presents: Candy 30",
+                "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material precisely adapts to your unique body shape. It means personalized comfort and support. Think about it this way: Tempur material is a lot like settling your hand into a container of sprinkles...densely packed in together, responsive and adaptive. Ordinary memory foam and innerspring mattresses are more like gumballs\u2026not nearly as responsive or adaptive. \n\nSorry, gumballs.  There\u2019s simply nothing like a Tempur-Pedic \u2014 truly personalized comfort for life-changing sleep.",
+                "author": "Tempur-Pedic",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "212408",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "91792173",
+            "url": "\/tempur-pedic-channel\/tempur-pedic-presents-candy-30\/91792173-91792113"
+        },
+        {
+            "id": "91792110",
+            "title": "Tempur-Pedic\u00ae Presents: Impressions",
+            "date_created": "1488382257",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material precisely adapts to any shape, while reducing pressure points. So we set out to show just how Tempur material conforms to every nook and cranny by making some \u201cimpressions.\u201d Originally developed by NASA for cushioning and support during takeoff, we perfected Tempur material for sleepers, adapting to your shape, weight and temperature. It becomes soft where you want it, and firm where you need it. Ordinary memory foam mattresses just don\u2019t adapt or relieve pressure in the same way.  \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 deeper pressure relief for life-changing sleep.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hpLx5dIn-58\/hqdefault.jpg",
+                "uploadDate": 1488382257,
+                "videoId": "hpLx5dIn-58",
+                "title": "Tempur-Pedic\u00ae Presents: Impressions 30",
+                "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material precisely adapts to any shape, while reducing pressure points. So we set out to show just how Tempur material conforms to every nook and cranny by making some \u201cimpressions.\u201d Originally developed by NASA for cushioning and support during takeoff, we perfected Tempur material for sleepers, adapting to your shape, weight and temperature. It becomes soft where you want it, and firm where you need it. Ordinary memory foam mattresses just don\u2019t adapt or relieve pressure in the same way.  \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 deeper pressure relief for life-changing sleep.",
+                "author": "Tempur-Pedic",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "53452",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "91792173",
+            "url": "\/tempur-pedic-channel\/tempur-pedic-presents-impressions-30\/91792173-91792110"
+        },
+        {
+            "id": "91792108",
+            "title": "Tempur-Pedic\u00ae Presents: Slow Melt",
+            "date_created": "1488383402",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material provides personalized comfort and support, adapting to your weight, shape and temperature. So we set out to prove it\u2026with people in spandex, showing the \u201cslow melt\u201d feeling you get on a Tempur-Pedic. Every part of your body gets a little hug. You won\u2019t find that with ordinary memory foam or innerspring mattresses. \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 truly personalized comfort for life-changing sleep.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/e0l2mnPNZQ0\/hqdefault.jpg",
+                "uploadDate": 1488383402,
+                "videoId": "e0l2mnPNZQ0",
+                "title": "Tempur-Pedic\u00ae Presents: Slow Melt 30",
+                "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? One-of-a-kind Tempur material provides personalized comfort and support, adapting to your weight, shape and temperature. So we set out to prove it\u2026with people in spandex, showing the \u201cslow melt\u201d feeling you get on a Tempur-Pedic. Every part of your body gets a little hug. You won\u2019t find that with ordinary memory foam or innerspring mattresses. \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 truly personalized comfort for life-changing sleep.",
+                "author": "Tempur-Pedic",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "17579",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "91792173",
+            "url": "\/tempur-pedic-channel\/tempur-pedic-presents-slow-melt-30\/91792173-91792108"
+        },
+        {
+            "id": "91792116",
+            "title": "Tempur-Pedic\u00ae Presents: Still As Can Be",
+            "date_created": "1487975038",
+            "loginId": "1758854",
+            "tags": "",
+            "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? \u2026If you\u2019re familiar with the iconic wine glass test, you know that it\u2019s proof that Tempur-Pedic is in a class of its own in reducing motion transfer. It means you sleep still and undisturbed through the night. So we set out to prove it once again\u2026with dancers, yoga, backflips, sledgehammers and kids who just had a lot of sugar. As always, the wine glass remains still as can be. Ordinary memory foam and spring mattresses just don\u2019t compare. \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 reduced motion transfer for undisturbed, life-changing sleep.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6U6NV_JtRHs\/hqdefault.jpg",
+                "uploadDate": 1487975038,
+                "videoId": "6U6NV_JtRHs",
+                "title": "Tempur-Pedic\u00ae Presents: Still As Can Be 30",
+                "description": "You\u2019ve heard Tempur-Pedic is better. But do you know why? \u2026If you\u2019re familiar with the iconic wine glass test, you know that it\u2019s proof that Tempur-Pedic is in a class of its own in reducing motion transfer. It means you sleep still and undisturbed through the night. So we set out to prove it once again\u2026with dancers, yoga, backflips, sledgehammers and kids who just had a lot of sugar. As always, the wine glass remains still as can be. Ordinary memory foam and spring mattresses just don\u2019t compare. \n\nThere\u2019s simply nothing like a Tempur-Pedic \u2014 reduced motion transfer for undisturbed, life-changing sleep.",
+                "author": "Tempur-Pedic",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "1068",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "91792173",
+            "url": "\/tempur-pedic-channel\/tempur-pedic-presents-still-as-can-be-30\/91792173-91792116"
+        }
+    ]
+}

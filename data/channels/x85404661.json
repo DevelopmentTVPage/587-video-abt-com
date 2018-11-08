@@ -1,0 +1,47 @@
+{
+    "title": "TV & Video Buying Guides Dynamic Channel",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1487191158",
+    "date_modified": "1528224839",
+    "tags": "",
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "85404661",
+    "loginId": "1758854",
+    "entityType": "5",
+    "titleTextEncoded": "TV-Video-Buying-Guides-Dynamic-Channel",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "$channels = array(81334157,81334153,81333918,81333915,81333912,81333911,80860507,80860505,80416175,80306964,80264953,80093953,80041909,78399258,78387318,78028433,78028264,77571617,77571441,77571440,70361815,70141990,70129315,70108831,70108696,70108695,70108363,70100363,70100359,69907057,69907054,69887597,69887590,69887118,69884907,69866869,69835026,69620361,69550065,69550063,69550062,69550061,85067981);\r\nforeach ($channels as $channel) {\r\n\r\n    RE::add(\r\n        RE::videos(\r\n            RE::condition()\r\n                ->compare('video_type', 'buying_guide')\r\n                ->compare('main_category', 'tvs_electronics')\r\n                ->compare('featured_category', 'featured_yes')\r\n                ->order('dateCreated')\r\n        )\r\n        ->channel($channel)\r\n        \/\/->of(RE::REL_MANUAL_VIDEOS_PRODUCT)\r\n    );\r\n    \r\n    if(RE::getResultCount() >= 30)\r\n        break;\r\n    \r\n};",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "date_created",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}

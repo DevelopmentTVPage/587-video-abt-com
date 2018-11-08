@@ -1,0 +1,135 @@
+{
+    "title": "Abt on Abt 7 News Segment - Top Tech Gifts For The Holidays",
+    "description": "The holiday shopping season is here and this year there are all sorts of high-tech toys to choose. To help sort it all out, Josh Davis, \"The Technologist\" from ABT Electronics visited ABC 7 to show some of the hottest gifts for the tech-savvy people on your nice list.\n\nGaming\nLenovo Jedi Challenges\non sale for $189: Xbox One S\nSony PlayStation 4 Pro 1TB Star Wars Bundle\n\nAudio\nGoogle Home Mini\nJBL Link 20\nBose SoundSport Free Headphones\n\nGourmet Shop\nTakeya Thermoflask 24oz\nFizzics Copper Waytap Draft Beer System\n\nFun Tech\nDJI Spark Sky Blue Quadcopter\nApple Watch Series 3\nDyson Supersonic Hair Dryer",
+    "referenceId": "1ae4d27a5ed583a60b56eef37610387c",
+    "date_created": "1513022348",
+    "date_modified": "1513026000",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "217",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "news",
+    "featured_category": "featured_yes",
+    "brand1": null,
+    "main_category": null,
+    "sub_category": null,
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "user_id": "0",
+    "id": "133160055",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "abt-on-abc-7-news-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "217",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "217",
+        "prettyDuration": "00:03:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/thumb-1ae4d27a5ed583a60b56eef37610387c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/133160055\/1139d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-12-29"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "11",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5896.5244,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
